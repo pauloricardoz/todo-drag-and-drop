@@ -30,3 +30,6 @@ div.columns {
 .column-description{
   border: solid 1px white;
 }
+.column-container{
+  height: 100%;
+}
